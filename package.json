@@ -1,0 +1,19 @@
+{
+  "name": "nodepracticefiles",
+  "version": "12.19.0",
+  "description": "Simple web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1972daniel/Introduction-To-NodeJS.git"
+  },
+  "author": "Daniel Kanjinga Jere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1972daniel/Introduction-To-NodeJS/issues"
+  },
+  "homepage": "https://github.com/1972daniel/Introduction-To-NodeJS#readme"
+}
